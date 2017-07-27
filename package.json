@@ -25,7 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/vanpho93/redux-kpt.git"
   },
-  "author": "Van Pho Nguyen",
+  "author": "Pham Nhu Ngoc Tuan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vanpho93/redux-kpt/issues"
